@@ -1,0 +1,27 @@
+{
+  "name": "mamjs",
+  "version": "1.0.0",
+  "description": "a public library as a playground and training about react libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadjavadnouri/mamJS.git"
+  },
+  "keywords": [
+    "mamJS"
+  ],
+  "author": "mohammadjavad nouri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadjavadnouri/mamJS/issues"
+  },
+  "homepage": "https://github.com/mohammadjavadnouri/mamJS#readme",
+  "devDependencies": {
+    "@types/react": "^18.0.25",
+    "react": "^18.2.0",
+    "typescript": "^4.9.3"
+  }
+}
